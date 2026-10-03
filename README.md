@@ -97,10 +97,6 @@ GOOGLE_API_KEY=your_google_api_key_here
 streamlit run app.py
 ```
 
-Open the URL shown in the terminal (usually `http://localhost:8501`).
-
----
-
 ## 💡 Usage
 
 1. In the sidebar, upload one or more PDF files.
